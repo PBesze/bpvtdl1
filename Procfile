@@ -1,1 +1,1 @@
-web: java -jar target/PROJECT_NAME-PROJECT_VERSION.jar $PORT
+web: java -jar target/*.jar $PORT
