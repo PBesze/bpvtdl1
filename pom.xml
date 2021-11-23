@@ -172,7 +172,7 @@
                 <executions>
                     <execution>
                         <goals>
-				<goal>vaadin:prepare-frontend</goal>
+				<goal>prepare-frontend</goal>
                         </goals>
                     </execution>
                 </executions>
@@ -220,7 +220,7 @@
                         <executions>
                             <execution>
                                 <goals>
-                                    <goal>vaadin:build-frontend</goal>
+                                    <goal>build-frontend</goal>
                                 </goals>
                                 <phase>compile</phase>
                             </execution>
