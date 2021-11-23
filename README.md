@@ -1,4 +1,4 @@
-# Project Base for Vaadin and Spring Boot
+# Project Base for Vaadin and Spring Boot - used for developing Heroku deploy settings
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
