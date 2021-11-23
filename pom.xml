@@ -5,11 +5,11 @@
     <artifactId>my-todo</artifactId>
     <name>My Todo</name>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>jar -Pproduction</packaging>
 
     <properties>
         <java.version>11</java.version>
-       <vaadin.version>14.2.0</vaadin.version>
+       <vaadin.version>14.7.5</vaadin.version>
     </properties>
 
     <parent>
